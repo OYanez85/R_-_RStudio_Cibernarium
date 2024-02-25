@@ -67,3 +67,12 @@ En segon lloc, presentarem R com a llenguatge de programació, fent especial èm
 
 Posteriorment, exposarem les principals utilitats que ens ofereix aquesta interfície gràfica i explorarem les maneres més senzilles de treure-li el major potencial possible. Aprendrem a crear i guardar un script, a aprofitar la quadrícula d’RStudio per gestionar la informació disponible i a fer un ús eficient de les seves funcionalitats.
 
+# Idees clau: Introducció al R i a l'anàlisi de dades
+
+En aquest mòdul hem realitzat els primers passos amb R i RStudio. A continuació, farem un repàs de les idees més importants que han aparegut:
+R és un conegut llenguatge de programació que ha crescut enormement en els darrers anys. Es caracteritza per estar totalment orientat a la usabilitat, modelització i visualització, i està àmpliament estès en molts sectors.
+Hem instal·lat R i la seva interfície gràfica RStudio, a la vegada que hem explorat les funcionalitats principals d’RStudio, com per exemple:
+Visualització dels objectes creats
+Estructura i llegibilitat del codi
+Assistents d’importació
+Gestió de scripts i de projectes
