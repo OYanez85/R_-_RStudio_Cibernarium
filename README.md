@@ -87,3 +87,19 @@ A continuació, veurem com funcionen les estructures condicionals més senzilles
 
 Al llarg d’aquest mòdul veurem, de manera transversal, algunes de les funcions bàsiques d’R per a l’anàlisi de dades i com podem crear les nostres pròpies funcions.
 
+# Idees clau: Programació amb R
+
+Ja som al final del segon mòdul. A continuació veurem les idees i els conceptes més importants que hem desenvolupat:
+Els diferents tipus d’objecte que es poden crear en R són:
+Variables unitàries: utilitzades per guardar valors únics del tipus que sigui.
+Vectors: conjunts de variables unitàries del mateix tipus.
+Dataframes: estructures similars als fulls de càlcul d’Excel.
+Llistes: semblants als vectors, però més flexibles.
+ 
+Hem après com funcionen les estructures condicionals i les comparacions en R.
+D’una banda, podem utilitzar if i else, els condicionals més clàssics per definir processos diferenciats.
+De l’altra banda, la funció compacta ifelse, que permet condensar aquest mateix procés binari en una única funció.
+ 
+Hem vist com utilitzar les funcions ja existents en R i quina estructura general segueixen, així com una breu introducció a la creació de funcions pròpies, la qual cosa ens permetrà reproduir processos repetitius d’anàlisi molt fàcilment.
+ 
+Finalment, hem après a dissenyar i aprofitar estructures en bucle, és a dir, processos iteratius (com el for o el while) sobre els nostres objectes (llistes, dataframes o vectors) i com podem especificar les seves condicions d’aturada.
