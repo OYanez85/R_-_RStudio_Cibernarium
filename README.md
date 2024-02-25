@@ -58,7 +58,7 @@ Exercici general del mòdul 2
 Resolució de l’exercici general
 Idees clau: Programació amb R
 
-# Introducció al R i a l'anàlisi de dades
+# 1.- Introducció al R i a l'anàlisi de dades
 
  
 En aquest primer mòdul explicarem el procés d’instal·lació d’R i la seva interfície gràfica RStudio.
@@ -76,3 +76,14 @@ Visualització dels objectes creats
 Estructura i llegibilitat del codi
 Assistents d’importació
 Gestió de scripts i de projectes
+
+# 2.- Programació amb R
+
+En aquest mòdul veurem un resum molt breu dels fonaments d’R com a llenguatge de programació.
+
+Començarem presentant els quatre grans tipus d’objectes amb els quals podem treballar, quines són les seves particularitats i per a què són útils.
+
+A continuació, veurem com funcionen les estructures condicionals més senzilles i algunes de més complexes, el mateix amb bucles de diferents tipus, fent especial èmfasi en les seves condicions d’aturada.
+
+Al llarg d’aquest mòdul veurem, de manera transversal, algunes de les funcions bàsiques d’R per a l’anàlisi de dades i com podem crear les nostres pròpies funcions.
+
